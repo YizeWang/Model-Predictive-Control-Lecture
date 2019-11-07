@@ -20,12 +20,6 @@ function [A_x, b_x] = compute_X_LQR
     InvSetLQR = systemLQR.invariantSet();
     disp('Found Invariant Set');
     
-    %% plot invariant set
-%     InvSetLQR.plot()
-%     xlabel('x_1');
-%     ylabel('x_2');
-%     zlabel('x_3');
-    
     %% return vectors
     A_x = InvSetLQR.A;
     b_x = InvSetLQR.b;
