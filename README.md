@@ -10,5 +10,7 @@ This repository stores my programming exercises for the Model Predict Control le
 
 ## Usage
 
-Run <code>run_simulations.m</code> under <code>src</code> folder. To test different methods, pass the method name as the second argument to the function <code>simulate_truck</code>.
+- Run <code>run_simulations.m</code> under <code>src</code> folder.
+
+- To test different methods, pass the method name as the second argument to the function <code>simulate_truck</code>.
 
