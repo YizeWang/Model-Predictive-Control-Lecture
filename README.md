@@ -6,11 +6,11 @@ This repository stores my programming exercises for the Model Predict Control le
 
 - MATLAB
 - Yalmip
-- FORCES Pro (for <code>controller_mpc_1_forces.m</code>)
+- FORCES Pro (for `controller_mpc_1_forces.m`)
 
 ## Usage
 
-- Run <code>run_simulations.m</code> under <code>src</code> folder.
+- Run `run_simulations.m`under `src` folder.
 
-- To test different methods, pass the method name as the second argument to the function <code>simulate_truck</code>.
+- To test different methods, pass the method name as the second argument to the function `simulate_truck`.
 
