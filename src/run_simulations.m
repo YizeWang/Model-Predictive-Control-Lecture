@@ -1,3 +1,6 @@
+% Author: Yize Wang
+% Email: yizwang@student.ethz.ch
+
 %% init
 clear all
 close all
