@@ -4,7 +4,7 @@ This repository stores my programming exercises for the Model Predict Control le
 
 ## Evaluation
 
-- Full grade
+- Full grade granted
 
 ## Requirement
 
